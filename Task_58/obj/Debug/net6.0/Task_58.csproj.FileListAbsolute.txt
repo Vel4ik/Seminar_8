@@ -1,0 +1,15 @@
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\bin\Debug\net6.0\Task_58.exe
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\bin\Debug\net6.0\Task_58.deps.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\bin\Debug\net6.0\Task_58.runtimeconfig.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\bin\Debug\net6.0\Task_58.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\bin\Debug\net6.0\Task_58.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.csproj.AssemblyReference.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfoInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfo.cs
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\refint\Task_58.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\Task_58.genruntimeconfig.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 8\Домашняя работа 8\Task_58\obj\Debug\net6.0\ref\Task_58.dll
